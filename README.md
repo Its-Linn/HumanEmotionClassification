@@ -1,4 +1,4 @@
-# HumanEmotionClassification
+# Human Emotion Classification
 Klasifikasi Gambar Emosi Manusia Dengan Convolutional Neural Network (Model VGG 19)
 
 ## Link Dataset
